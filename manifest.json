@@ -12,6 +12,7 @@
         "js" : ["chrome.js", "chrome.css", "chrome.html"]
     }
 ],
+
 "browser_action" : {
     "default_popup": "chrome.html"
 }
